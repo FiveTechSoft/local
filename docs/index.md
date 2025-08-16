@@ -1,0 +1,1 @@
+Venta de local comercial
