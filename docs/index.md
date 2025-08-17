@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -16,12 +15,11 @@
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://fivetech.es/">
-    <meta property="twitter:title" content="Local Comercial en Venta - Madrid Gran Vía">
-    <meta property="twitter:description" content="Excelente local comercial de 120 m² en zona comercial de Madrid. Precio: €180,000">
+    <meta property="twitter:title" content="Local Comercial en Venta - Marbella, Avenida del Trapiche">
+    <meta property="twitter:description" content="Excelente local comercial de 128 m² en zona comercial de Marbella. Precio: €365,000">
     <meta property="twitter:image" content="https://picsum.photos/1200/630?random=1">
 
-    <title>Local Comercial en Venta - Madrid Gran Vía</title>
+    <title>Local Comercial en Venta - Marbella, Avenida del Trapiche</title>
 
     <!-- Bootstrap 5 (CDN) -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
