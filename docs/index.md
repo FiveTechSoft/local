@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Local comercial en venta en Madrid. 120 m², ubicación privilegiada en Gran Vía. Ideal para tienda, oficina o restaurante.">
-    <meta name="keywords" content="local comercial, venta, Madrid, Gran Vía, inmobiliario, negocio">
-    <meta name="author" content="Venta de Locales">
+    <meta name="description" content="Local comercial en venta en Avenida del Trapiche, Marbella. 128 m², ubicación privilegiada en la avenida principal de Miraflores. Ideal para tienda, oficina o restaurante.">
+    <meta name="keywords" content="local comercial, venta, Marbella, inmobiliaria, negocio">
+    <meta name="author" content="Venta de Local">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
