@@ -13,12 +13,6 @@
     <meta property="og:description" content="Excelente local comercial de 120 m² en zona comercial de Madrid. Precio: €180,000">
     <meta property="og:image" content="https://picsum.photos/1200/630?random=1">
     
-    <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:title" content="Local Comercial en Venta - Marbella, Avenida del Trapiche">
-    <meta property="twitter:description" content="Excelente local comercial de 128 m² en zona comercial de Marbella. Precio: €365,000">
-    <meta property="twitter:image" content="https://picsum.photos/1200/630?random=1">
-
     <title>Local Comercial en Venta - Marbella, Avenida del Trapiche</title>
 
     <!-- Bootstrap 5 (CDN) -->
