@@ -196,7 +196,7 @@
     <!-- Hero Section -->
     <header id="hero" class="text-white text-center d-flex align-items-center">
         <div class="container py-5">
-            <h1 class="display-4 fw-bold mb-4">Local Comercial Excepcional</h1>
+            <h1 class="display-4 fw-bold mb-4">Local Comercial</h1>
             <p class="lead mb-4">Ubicado en <strong>Marbella - Avenida del Trapiche</strong></p>
             <div class="price-badge mb-4">€365,000</div>
             <p class="fs-5 mb-4">120 m² • Zona comercial</p>
