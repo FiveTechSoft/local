@@ -197,8 +197,8 @@
     <header id="hero" class="text-white text-center d-flex align-items-center">
         <div class="container py-5">
             <h1 class="display-4 fw-bold mb-4">Local Comercial Excepcional</h1>
-            <p class="lead mb-4">Ubicado en <strong>Madrid - Gran Vía</strong></p>
-            <div class="price-badge mb-4">€180,000</div>
+            <p class="lead mb-4">Ubicado en <strong>Marbella - Avenida del Trapiche</strong></p>
+            <div class="price-badge mb-4">€365,000</div>
             <p class="fs-5 mb-4">120 m² • Zona comercial premium • Listo para entrar</p>
             <a href="#contacto" class="btn btn-light btn-lg btn-custom me-3">Solicitar Información</a>
             <a href="#galeria" class="btn btn-outline-light btn-lg">Ver Galería</a>
