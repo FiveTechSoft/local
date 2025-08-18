@@ -175,7 +175,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top py-3">
         <div class="container">
             <a class="navbar-brand" href="#">
-                <i class="fas fa-building me-2"></i>Venta de Locales
+                <i class="fas fa-building me-2"></i>Venta de Local
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Alternar navegación">
@@ -199,7 +199,7 @@
             <h1 class="display-4 fw-bold mb-4">Local Comercial Excepcional</h1>
             <p class="lead mb-4">Ubicado en <strong>Marbella - Avenida del Trapiche</strong></p>
             <div class="price-badge mb-4">€365,000</div>
-            <p class="fs-5 mb-4">120 m² • Zona comercial premium • Listo para entrar</p>
+            <p class="fs-5 mb-4">120 m² • Zona comercial</p>
             <a href="#contacto" class="btn btn-light btn-lg btn-custom me-3">Solicitar Información</a>
             <a href="#galeria" class="btn btn-outline-light btn-lg">Ver Galería</a>
         </div>
